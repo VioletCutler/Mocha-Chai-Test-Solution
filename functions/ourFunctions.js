@@ -7,7 +7,7 @@ const sayHello = (name) => {
   return `hello ${name}`;
 };
 
-const addToArray = (input) => {
+const addToAnyArray = (input) => {
   let result = [];
   result.push(input);
   return result;
@@ -15,5 +15,5 @@ const addToArray = (input) => {
 
 module.exports = {
   sayHello,
-  addToArray,
+  addToAnyArray,
 };
