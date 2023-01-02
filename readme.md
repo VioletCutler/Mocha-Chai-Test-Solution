@@ -4,7 +4,9 @@ You will be working in two folders for this practice exercise (test, functions).
 
 In the functions folder you will find a file named yourFunctions.js. Here you will write functions that will meet the expectaions of the tests found in /test/ourTests.js
 
-In the test folder you will find a file named yourTests.js. Here you will write functions that will meet the needs of the functions that can be found in functions/ourFunctions.js
+In the test folder you will find a file named yourTests.js. Here you will write tests that will meet the needs of the functions that can be found in functions/ourFunctions.js
 
+
+**Make sure to remove the x from each test you plan on testing. For example xit => it**
 
 #You can find a solution to these exercises in the solution branch of this repo
