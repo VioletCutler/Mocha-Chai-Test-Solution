@@ -11,4 +11,7 @@ In the test folder you will find a file named yourTests.js. Here you will write 
 
 ## **Make sure to remove the x from each test you plan on testing. For example xit => it**
 
+## To run your tests use command: npm run test
+## To check test coverage use command: npm run coverage
+
 ## You can find a solution to these exercises in the solution branch of this repo
