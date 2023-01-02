@@ -1,4 +1,6 @@
-# Clone this repo to your local machine. Install npm packages using npm i
+# To get started with this repo:
+
+## Clone this repo to your local machine. Install npm packages using npm i
 
 You will be working in two folders for this practice exercise (test, functions).
 
