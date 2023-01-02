@@ -1,8 +1,8 @@
-function addToArray() {}
+function addNames() {}
 
 function multiply() {}
 
 module.exports = {
-  addToArray,
+  addNames,
   multiply,
 };
