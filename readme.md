@@ -1,4 +1,4 @@
-#Clone this repo to your local machine. Install npm packages using npm i
+####Clone this repo to your local machine. Install npm packages using npm i
 
 You will be working in two folders for this practice exercise (test, functions).
 
@@ -9,4 +9,4 @@ In the test folder you will find a file named yourTests.js. Here you will write 
 
 **Make sure to remove the x from each test you plan on testing. For example xit => it**
 
-#You can find a solution to these exercises in the solution branch of this repo
+##You can find a solution to these exercises in the solution branch of this repo
