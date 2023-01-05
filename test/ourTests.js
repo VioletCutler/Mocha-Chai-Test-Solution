@@ -3,7 +3,7 @@ const { expect } = require("chai");
 
 describe("Our tests for your funcitons", function () {
   describe("addNames", function () {
-    xit("function addNames should return an array", function () {
+    it("function addNames should return an array", function () {
       const data = [
         { name: "Tom", task: "Clean the chalkboard" },
         { name: "Diane", task: "Feed class pet" },
@@ -13,7 +13,7 @@ describe("Our tests for your funcitons", function () {
       expect(result).to.equal(true);
     });
 
-    xit("function addNames should return an array with a length equal to number of students in input array", function () {
+    it("function addNames should return an array with a length equal to number of students in input array", function () {
       const data = [
         { name: "Tom", task: "Clean the chalkboard" },
         { name: "Diane", task: "Feed class pet" },
@@ -25,12 +25,12 @@ describe("Our tests for your funcitons", function () {
   });
 
   describe("multiply", function () {
-    xit("function multiply should correctly multiply two input values", function () {
+    it("function multiply should correctly multiply two input values", function () {
       let result = functions.multiply(2, 2);
       expect(result).to.equal(4);
     });
 
-    xit("function multiply should return 0 if one or either of the inputs is NaN", function () {
+    it("function multiply should return 0 if one or either of the inputs is NaN", function () {
       let result = functions.multiply("a", 2);
       expect(result).to.equal(0);
     });
